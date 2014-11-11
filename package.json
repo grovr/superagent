@@ -1,5 +1,5 @@
 {
-  "name": "superagent",
+  "name": "unsecure-superagent",
   "version": "0.20.0",
   "description": "elegant & feature rich browser / node HTTP with a fluent API",
   "scripts": {
